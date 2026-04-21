@@ -1,0 +1,6 @@
+# Infrastructure team owns everything
+* @Rishi-Rishi9/infra-team
+
+# Security review for IAM changes
+modules/*/iam*.tf @Rishi-Rishi9/security-team
+bootstrap/ @Rishi-Rishi9/security-team
